@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Paula-Morales-Rivera <img src="https://c.tenor.com/DTeUgR48EJoAAAAi/nerd-monkey-monkey.gif" width="50" height="50" />
-- 👀 I’m interested in computer engineering 
+- 👀 I’m interested in computer science 
 - 🌱 I’m currently learning python
 - 📫 How to reach me: paulamorales6729@gmail.com
 ## &#x1f4c8; GitHub Stats
