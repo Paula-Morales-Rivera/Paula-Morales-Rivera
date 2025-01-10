@@ -4,7 +4,9 @@
 - I'm looking for opportunities to work on cool projects and solve real-world problems.
 - I enjoy using **Python**, **C++**, and **SQL** to create solutions and explore new ideas.
 - Feel free to reach out if you'd like to connect!
-- <img src="https://c.tenor.com/DTeUgR48EJoAAAAi/nerd-monkey-monkey.gif" width="50" height="50" />
+  
+- <img src="https://media.tenor.com/W8RFkl1NGVsAAAAi/computer.gif" width="50" height="50" /> <img src="https://media.tenor.com/qJES35-oSD0AAAAi/plus-plus-one.gif" width="50" height="50" /> <img src="https://media.tenor.com/6bnek3U6Kc8AAAAi/idea-lightbulb.gif" width="55" height="55" /> <img src="https://media.tenor.com/ST0xEa3B5TgAAAAi/igual.gif" width="40" height="40" /> <img src="https://c.tenor.com/DTeUgR48EJoAAAAi/nerd-monkey-monkey.gif" width="50" height="50" />
+- 
 
 ## How to reach me:
 - 📧 Email: paulamorales6729@gmail.com
