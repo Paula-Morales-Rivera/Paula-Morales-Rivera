@@ -5,10 +5,11 @@
 - I enjoy using **Python**, **C++**, and **SQL** to create solutions and explore new ideas.
 - Feel free to reach out if you'd like to connect!
   
-- <img src="https://media.tenor.com/W8RFkl1NGVsAAAAi/computer.gif" width="50" height="50" /> <img src="https://media.tenor.com/qJES35-oSD0AAAAi/plus-plus-one.gif" width="50" height="50" /> <img src="https://media.tenor.com/6bnek3U6Kc8AAAAi/idea-lightbulb.gif" width="55" height="55" /> <img src="https://media.tenor.com/ST0xEa3B5TgAAAAi/igual.gif" width="40" height="40" /> <img src="https://c.tenor.com/DTeUgR48EJoAAAAi/nerd-monkey-monkey.gif" width="50" height="50" />
+- <img src="https://media.tenor.com/W8RFkl1NGVsAAAAi/computer.gif" width="50" height="50" /> <img src="https://media.tenor.com/qJES35-oSD0AAAAi/plus-plus-one.gif" width="40" height="40" /> <img src="https://media.tenor.com/6bnek3U6Kc8AAAAi/idea-lightbulb.gif" width="55" height="55" /> <img src="https://media.tenor.com/ST0xEa3B5TgAAAAi/igual.gif" width="40" height="40" /> <img src="https://c.tenor.com/DTeUgR48EJoAAAAi/nerd-monkey-monkey.gif" width="50" height="50" />
 
 ## How to reach me:
-- 📧 Email: paulamorales6729@gmail.com
+- 📧 [Email](paulamorales6729@gmail.com)
+- 🌱[LinkedIn](https://www.linkedin.com/in/paula-morales--/)
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/paula-morales-rivera/paula-morales-rivera">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paula-morales-rivera&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141414" alt="Paula's GitHub Stats" />
