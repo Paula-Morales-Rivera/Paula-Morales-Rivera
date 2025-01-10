@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paula-Morales-Rivera <img src="https://c.tenor.com/DTeUgR48EJoAAAAi/nerd-monkey-monkey.gif" width="50" height="50" />
-- 👀 I’m interested in computer science 
-- 🌱 I’m currently learning python
+- Hey! I’m Paula, a soon-to-be computer science grad. I'm on the lookout for opportunities to work on cool projects and solve real-world problems.
+  I like using Python, C++, and SQL to create solutions and try out new ideas. Hit me up if you’d like to connect!
 - 📫 How to reach me: paulamorales6729@gmail.com
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/paula-morales-rivera/paula-morales-rivera">
