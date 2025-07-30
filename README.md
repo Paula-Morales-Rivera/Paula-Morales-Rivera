@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-- I’m **Paula**, a soon-to-be computer science graduate.
+- I’m **Paula**, a computer science graduate.
 - I'm looking for opportunities to work on cool projects and solve real-world problems.
 - I enjoy using **Python**, **C++**, and **SQL** to create solutions and explore new ideas.
 - Feel free to reach out if you'd like to connect!
